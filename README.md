@@ -1,4 +1,5 @@
 # vue-quiz-app
+You have to answer the questions asked in this application.
 
 ## Project setup
 ```
